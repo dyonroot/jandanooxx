@@ -1,7 +1,6 @@
 # jandanooxx
 
-## 海量煎蛋妹子图片等你来下载
-[煎蛋妹子](http://jandan.net/ooxx)
+海量[煎蛋妹子](http://jandan.net/ooxx)图片等你来下载
 
 ### requirements
 
